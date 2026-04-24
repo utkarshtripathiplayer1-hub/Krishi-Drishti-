@@ -1,1 +1,61 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables (VERY IMPORTANT)
+.env
+
+# Logs
+*.log
+
+# Database files
+*.db
+*.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# Machine Learning models (optional – if large)
+*.h5
+*.pt
+*.pth
+*.joblib
+*.pkl
+
+# Uploaded / generated files
+uploads/
+output/
+data/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Node modules (if you ever use frontend)
+node_modules/
+
+# Coverage reports
+.coverage
+htmlcov/
 
